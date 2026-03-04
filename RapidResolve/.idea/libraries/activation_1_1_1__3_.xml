@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="activation-1.1.1 (3)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/activation-1.1.1 (3).jar!/" />
+      <root url="jar://$PROJECT_DIR$/core-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/core-3.5.2 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/javase-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-9.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

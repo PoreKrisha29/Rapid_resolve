@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="RapidResolve">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RapidResolve/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RapidResolve/core-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RapidResolve/activation-1.1.1 (3).jar!/" />
+      <root url="jar://$PROJECT_DIR$/RapidResolve/core-3.5.2 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/RapidResolve/javase-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RapidResolve/mysql-connector-j-9.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

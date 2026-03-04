@@ -1,0 +1,33 @@
+================================================================================
+                    RAPIDRESOLVE - ALL COMPLAINTS REPORT
+================================================================================
+Generated on: 2026-03-02
+Total Complaints: 3
+--------------------------------------------------------------------------------
+Complaint ID: 4
+Filed by: siya mehar (7364582398)
+Area: Al mall
+Type: Civil
+Description: sdfnbhusdfdhy
+Status: OPEN
+Officer ID: 14
+Filed on: 2025-08-21
+----------------------------------------
+Complaint ID: 2
+Filed by: krisha pore (8364756273)
+Area: paldi
+Type: Civil
+Description: edheufhfefheh
+Status: OPEN
+Officer ID: 3
+Filed on: 2025-08-20
+----------------------------------------
+Complaint ID: 3
+Filed by: krisha pore (8364756273)
+Area: sarkhej
+Type: Civil
+Description: fhihfbegryfggr
+Status: OPEN
+Officer ID: 2
+Filed on: 2025-08-20
+----------------------------------------
